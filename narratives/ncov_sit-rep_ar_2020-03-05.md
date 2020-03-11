@@ -13,21 +13,21 @@ abstract: " يستخدم هذا التقرير بيانات كوفيد ١٩ ال
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Executive summary](https://nextstrain.org/ncov/2020-03-05)
+# [الخلاصة الحصرية](https://nextstrain.org/ncov/2020-03-05)
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 ## Executive summary
 
-Using 169</tag> publicly shared COVID-19 genomes, we examined genetic diversity to characterize the spread of COVID-19 in different areas and infer the date of their common ancestor.
+باستخدام جينومات كوفيد ١٩ والتي تم مشاركتها للعموم قمنا بفحص التنوع الجيني لتتبع انتشار كوفيد ١٩ في مناطق مختلفة وللتنبؤ بتاريخ اسلافها المشتركة.
 
 
 
-We find:
-* COVID-19 was introduced into Italy at least twice with subsequent community spread ([go to this](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-05?n=7)).
-* This includes a cluster of sequences from 6 different countries where cases appear to have been exported from Italy ([go to this](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-05?n=9)).
-* Genetic sequence data supports the hypothesis of undetected, sustained spread of COVID-19 in the greater Seattle area since mid-January ([go to this](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-05?n=10)).
-* All the sequenced cases included in this analysis likely share a common ancestor sometime between mid-November and mid-December 2019. ([go to this](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-05?n=11)).
+تم ايجاد ما يلي:
+* تم ادخال كوفيد ١٩ مرتين على الاقل الى ايطاليا مع عمليات انتشار مجتمعي متتالية ([اذهب هنا ](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-05?n=7)).
+* هذا يشتمل على تجمع من التسلسلات من ٦ دول مختلفة حيث يظهر ان الحالات تم تصديرها من ايطاليا ([اذهب هنا](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-05?n=9)).
+* بيانات التسلسل الجيني تدعم الفرضية بالانتستر غير المحدد والمستدام ل كوفيد ١٩ في منطقة سياتيل العظمى منذ منتصف شهر يناير ([اذهب هنا](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-05?n=10)).
+* كل الحالات محددة التسلسل والتي تم تحليلها تشترك على الاغلب بسلف مشترك في الفترة ما بين منتصف نوفمبر ومنتصف ديسمبر  ٢٠١٩. ([اذهب هنا](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-05?n=11)).
 
 ```
 
