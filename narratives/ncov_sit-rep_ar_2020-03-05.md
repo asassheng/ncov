@@ -47,8 +47,8 @@ abstract: " يستخدم هذا التقرير بيانات كوفيد ١٩ ال
 
 ## مصادر كوفيد ١٩
 
-Below, we've prepared some resources that are worth reading to familiarize yourself with COVID-19 and the virus that causes it, SARS-CoV-2.
-This information will make interpreting the data we present in this narrative easier.
+قمنا ادناه بتحضير بعض المراجع التي تستحق القراءة لتجعل نفسك على دراية ب كوفيد ١٩ والفيروس الذي يسببه وهو سارس كو في ٢
+هذه المعلومات ستجعلك قادرا بسهولة على تحليل البيانات التي نقوم بعرضها من خلال هذا التقرير
 
 <div>
   <a href="https://nextstrain.org/help/coronavirus/human-CoV"><img alt="microscopy image of coronaviruses" width="100" src="https://nextstrain.org/static/ncov_narrative-76cfd610d11ef708d213a3170de9519f.png"/> Background on Coronaviruses </a>
@@ -59,13 +59,14 @@ This information will make interpreting the data we present in this narrative ea
 
 </div>
 
-## Nextstrain narratives
+## تقرير السلالة القادمة
 
-The following pages contain analysis performed using [Nextstrain](https://nextstrain.org).
-Scrolling through the left-hand sidebar will reveal paragraphs of text with a corresponding visualization of the genomic data on the right-hand side.
+الصفحات التالية تحتوي على تحليل تم القيام به من قبل السلالة القادمة [Nextstrain](https://nextstrain.org).
+النزول عبر المزلقة اليسرى للشاشة سوف يظهر لك فقرات النص المتوافقة مع صور البيانات الجينومية على الجانب الايمن للشاشة.
 
-To have full genomes of a novel and large RNA virus this quickly is a remarkable achievement.
-These analyses have been made possible by the rapid and open sharing of genomic data and interpretations by scientists all around the world (see the final slide for a visualization of sequencing authorship).
+يعتبر الحصول على الجينوم الكامل لفيروس ار ان اي فريد وكبير بهذه السرعة انجاز معتبر To have full genomes of a novel and large RNA virus this quickly is a remarkable achievement.
+كانت هذه التحليلات ممكنة من خلال تمكن العلماء من جميع انحاء العالم من تحليل البيانات الجينومية والتي تم مشاركتها بشكل مفتوح وسريع(انظر الى الشريحة النهاءية للحصول على حقوق تأليف التسلسلات
+).
 
 
 ```
