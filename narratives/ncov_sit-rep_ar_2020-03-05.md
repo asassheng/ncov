@@ -1,11 +1,11 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-03-05.
+title: التحليل الجينومي لانتشار كوفيد ١٩. تقرير حالة ٥-٣-٢٠٢٠.
 authors: "Trevor Bedford, Richard Neher, James Hadfield, Emma Hodcroft, Misja Ilcisin, Nicola Müller"
 authorLinks: "https://nextstrain.org"
 affiliations: "Fred Hutch, Seattle, USA and Biozentrum, Basel, Switzerland"
 date: "2020 March 05"
 dataset: "https://nextstrain.org/ncov/2020-03-05"
-abstract: "This report uses publicly shared COVID-19 genomic data from GISAID and Genbank to estimate rates and patterns of viral epidemic spread. We plan to issue updated situation reports as new data is produced and shared. This website is optimized for display on desktop browsers."
+abstract: " يستخدم هذا التقرير بيانات كوفيد ١٩ الجينومية والتي تم مشاركتها بشكل عمومي على مواقع بنك الجينات وبنك جينات الفيروسات لتقدير معدلات وانماط الانتشار الوباءي للفيروس. نحن نسعى لاصدار تقارير حالة محدثة بعد انتاج ونشر بيانات جديدة. تم تصميم هذا الموقع ليعرض على متصفحات الحاسوب المكتبي"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
