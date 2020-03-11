@@ -17,7 +17,7 @@ abstract: " يستخدم هذا التقرير بيانات كوفيد ١٩ ال
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-## Executive summary
+
 
 باستخدام جينومات كوفيد ١٩ والتي تم مشاركتها للعموم قمنا بفحص التنوع الجيني لتتبع انتشار كوفيد ١٩ في مناطق مختلفة وللتنبؤ بتاريخ اسلافها المشتركة.
 
@@ -35,17 +35,17 @@ abstract: " يستخدم هذا التقرير بيانات كوفيد ١٩ ال
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Coronaviruses](https://nextstrain.org/ncov/2020-03-05)
+# [فيروسات كورونا](https://nextstrain.org/ncov/2020-03-05)
 
-### Further Reading:
+### قراءة اضافية:
 
-* Summary of the nCov outbreak on [Wikipedia](https://en.wikipedia.org/wiki/2019%E2%80%9320_Wuhan_coronavirus_outbreak) _2020-01-30_
-* Material provided by the [US CDC](https://www.cdc.gov/coronavirus/index.html) _2020-01-29_
+* مختصر عن الانتشار الوباءي لفيروس كورونا المستجد على موقع ويكيبيديا [Wikipedia](https://en.wikipedia.org/wiki/2019%E2%80%9320_Wuhan_coronavirus_outbreak) _2020-01-30_
+* المادة المزودة من قبل المركز الامريكي للسيطرة على الأمراض  [US CDC](https://www.cdc.gov/coronavirus/index.html) _2020-01-29_
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-## COVID-19 Resources
+## مصادر كوفيد ١٩
 
 Below, we've prepared some resources that are worth reading to familiarize yourself with COVID-19 and the virus that causes it, SARS-CoV-2.
 This information will make interpreting the data we present in this narrative easier.
